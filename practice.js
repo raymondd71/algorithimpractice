@@ -48,3 +48,9 @@ function getSpaces(spaces, yesterday, today) {
   return count;
 }
 console.log(getSpaces(5, "CC..C", ".CCCC"));
+
+``` 
+Binary -> Decimal
+1. 
+2. Make each binary digit by itself.
+3. If t
